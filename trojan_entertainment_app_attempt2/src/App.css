@@ -14,13 +14,13 @@
 }
 
 .App-header {
-  background-color: #40C9A2;
+  background-color: linear gradient(181deg, rgba(64, 201, 162, 1), 0%, rgba(117, 235, 168, 1), 100%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(50px + 2vmin);
   font-family: "Papyrus", fantasy; 
   color: #F9DC5C ;
 }
